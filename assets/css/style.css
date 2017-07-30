@@ -1,0 +1,43 @@
+.col-header-title {
+	text-align: center;
+	padding-bottom: 20px;
+	margin: auto;
+	border-bottom: 20px;
+	border-color: black;
+	font-family: 'Julee';
+}
+
+.col-gif {
+	text-align: center;
+	box-sizing: border-box;
+	padding: .5em;
+	margin: .125em;
+	width: calc(25% - .25em);
+	background-color: rgba(80, 80, 80, .4);
+	background: linear-gradient(-45deg, rgba(40, 40, 40, .3), rgba(80, 80, 80, .3));
+	color: rgba(40, 40, 40, 1);
+
+}
+
+.gif-thumb {
+	width: 100%;
+	height: auto;
+	margin: 0 0 .25em 0;
+}
+.row-gif {
+	margin-bottom: 2em;
+}
+
+.search-bar {
+	width: calc(235px + 1.5em);
+	float: right;
+	font-family: 'Julee';
+}
+
+.row-btn {
+	font-family: 'Julee';
+}
+
+.btn-search {
+	font-family: 'Julee';
+}
